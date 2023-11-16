@@ -2,29 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://energovotum.github.io/energovotum/</loc>
+    <loc>https://energovotum.github.io/</loc>
     <lastmod>2021-03-16T08:47:11+03:00</lastmod>
     <priority>0</priority>
   </url><url>
-    <loc>https://energovotum.github.io/energovotum/page/</loc>
+    <loc>https://energovotum.github.io/page/</loc>
     <lastmod>2021-03-16T08:47:11+03:00</lastmod>
     <priority>0</priority>
   </url><url>
-    <loc>https://energovotum.github.io/energovotum/page/electrical_engineer/</loc>
+    <loc>https://energovotum.github.io/page/electrical_engineer/</loc>
     <lastmod>2021-03-16T08:47:11+03:00</lastmod>
   </url><url>
-    <loc>https://energovotum.github.io/energovotum/page/energy_engineer/</loc>
+    <loc>https://energovotum.github.io/page/energy_engineer/</loc>
     <lastmod>2021-03-16T08:47:11+03:00</lastmod>
   </url><url>
-    <loc>https://energovotum.github.io/energovotum/post/</loc>
+    <loc>https://energovotum.github.io/post/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://energovotum.github.io/energovotum/categories/</loc>
+    <loc>https://energovotum.github.io/categories/</loc>
   </url><url>
-    <loc>https://energovotum.github.io/energovotum/tags/</loc>
+    <loc>https://energovotum.github.io/tags/</loc>
   </url><url>
-    <loc>https://energovotum.github.io/energovotum/page/contacts/</loc>
+    <loc>https://energovotum.github.io/page/contacts/</loc>
   </url><url>
-    <loc>https://energovotum.github.io/energovotum/page/about/</loc>
+    <loc>https://energovotum.github.io/page/about/</loc>
   </url>
 </urlset>
